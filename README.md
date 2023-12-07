@@ -6,8 +6,11 @@ NPM    : G1F022033
 <img width="249" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/c5d712e0-afc9-4589-92a3-6ec3ac45dfc9">
 </div>
 
-Perpustakaan sudah merambah ke ranah digital. Keberadaan sistem informasi perpustakaan di perguruan tinggi dapat dirasakan telah memudahkan para pengunjung, baik mahasiswa maupun dosen, dalam mencari bahan referensi yang menjadi koleksi perpustakaan dimaksud **[1]**.
-Saat ini telah banyak sekali buku-buku yang disediakan oleh perpustakaan. Tak jarang buku-buku tersebut tidak sesuai tentang isi yang terdapat pada buku dan cover buku yang terlihat bagus. Oleh karena itu, pengguna platform perpustakaan digital perlu diberikan rasa nyaman dengan memfilter buku-buku yang direkomendasikan kepada user.
+Penejlasan:
+Kode diatas adalah untuk membuat perulangan 1 sampai 100, dimana setiap kelipatan 10 akan mencetak nama saya yaitu "Thesa Febriani" sebanyak tiga kali secara berturut turut, sementara angka lainnya akan dicetak biasa.
+"for x in range(1, 100): " adalah pernyataan perulangan for yang akan mengiterasi nilai x dari 1 hingga 100. kondisi "if x % 10 == 0:" berfungsi untuk memeriksa apakah nilai x adalah kelipatan 10 atau tidak dengan menggunakan operator modulo %. Jika x adalah kelipatan 10 maka "Thesa Febriani" akan dicetak tiga kali berturut-turut. Jika x tidak merupakan kelipatan 10, maka pernyataan else akan dijalankan
+
+
 
 ## 2. _Business Understanding_
 ### 2.1 _Problem Statements_
