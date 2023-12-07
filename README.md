@@ -13,9 +13,10 @@ Kode diatas adalah untuk membuat perulangan 1 sampai 100, dimana setiap kelipata
 ## 2. _Membuat program if else pada for loop dan while loop
 ### 2.1 _Program if else pada for loop_
 * Program mengecek Bilangan Ganjil dan Genap
-  <div align="center">
      <img width="353" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/985ca363-7381-4fb4-a708-7256df78af2d">
-  </div>
+  Penjelasan:
+
+  
 
 * Bagaimana sistem rekomendasi dapat membantu meningkatkan pengalaman pengguna dalam meminjam buku ?
 
