@@ -2,9 +2,7 @@
 NAMA   : Thesa Febriani
 NPM    : G1F022033
 ## 1. _Buatlah perulangan hingga 100 menggunakan Python_
-<div align="center">
 <img width="249" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/c5d712e0-afc9-4589-92a3-6ec3ac45dfc9">
-</div>
 
 Penejlasan:
 
