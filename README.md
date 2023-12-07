@@ -19,7 +19,7 @@ NPM    : G1F022033
     Penjelasan:
     Gamabar diatas merupakan kode yang digunakan untuk mebuat program sederhana untuk mengecek bilangan ganjil dan genap, dimana dengan rentang nilai 1 sampai 6, tidak termasuk 7. Pernyataan if i % 2 == 0: memeriksa apakah nilai i adalah bilangan genap atau tidak. "i % 2" adalah operasi modulo yang mengembalikan sisa bagi dari pembagian i dengan 2. Jika sisa bagi adalah 0 (i habis dibagi 2), maka i adalah bilangan genap. Jika i adalah bilangan genap (ketika i % 2 == 0), maka program akan mencetak bahwa i adalah bilangan genap menggunakan pernyataan print(f"{i} adalah bilangan genap"). Jika i bukan bilangan genap (karena i % 2 != 0), maka program akan mencetak bahwa i adalah bilangan ganjil menggunakan pernyataan print(f"{i} adalah bilangan ganjil").
 
-* Program Pengecekan bilangan 2 dan 3
+* **Program Pengecekan bilangan 2 dan 3**
 
 
     <img width="303" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/4da6da5b-989b-4df2-8801-69bef85e02f9">
@@ -44,23 +44,13 @@ NPM    : G1F022033
   Kode diatas digunakan untuk membuat program yang berfungsi untuk menghitung jumlah angka genap dan ganjil. rentang_awal dan rentang_akhir menentukan rentang angka yang ingin kita hitung. jumlah_genap dan jumlah_ganjil diinisialisasi dengan nilai 0 untuk menyimpan jumlah angka genap dan ganjil dalam rentang tersebut. while angka <= rentang_akhir: while loop akan terus berjalan selama nilai angka masih dalam rentang yang ditentukan. Dalam loop, program memeriksa apakah angka adalah genap atau ganjil menggunakan pernyataan if else. Jika angka adalah genap (angka % 2 == 0), maka jumlah_genap akan bertambah satu. Jika tidak, angka adalah ganjil dan jumlah_ganjil akan bertambah satu. angka += 1  nilai angka akan bertambah satu demi satu.
 
 
+## 3 _Buatlah sebuah variabel dengan tipe data array, kemudian tampilkan semua nilai dalam variabel tersebut menggunakan perulangan for_
 
-### 2.3 _Solution statements_
-Solusi dalam menyelesaikan masalah ini yaitu penulis menggunakan algoritma _Content Based Filtering_ dan _Collaborative Filtering_
 
-<div align="center">
+<img width="409" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/8ce2d042-b438-43b7-af74-c96d921b177a">
 
-![1_aSq9viZGEYiWwL9uJ3Recw](https://user-images.githubusercontent.com/46146748/63115930-5f6c1900-bf66-11e9-894f-ecde5ec531b0.png)
+Penjelasan:
 
-</div>
-
-- **_Content Based Filtering_**. Metode _Content-Based Filtering_ bekerja dengan melihat kemiripan item baru dengan item yang sebelumnya. _Content-Based Filtering_ memberikan rekomendasi berdasarkan kemiripan item yang dianalisis dari fitur yang dikandung oleh item sebelumnya **[2]**.
-
-- **_Collaborative Filtering_**. _Collaborative filtering_ merupakan proses penyaringan atau pengevaluasian item menggunakan opini orang lain. _Collaborative filtering_ melakukan penyaringan data berdasarkan kemiripan karakteristik konsumen sehingga mampu memberikan informasi yang baru kepada konsumen karena sistem memberikan informasi berdasarkan pola satu kelompok konsumen menjadikan sumber informasi baru yang mungkin bermanfaat bagi anggota kelompok lainnya.Berikut adalah persamaan _cosine similarity_ yang digunakan untuk menghitung nilai kemiripan diantara item **[3]**.
-
-## 3 _Data Understanding_
-Data ini dapat diunduh pada link dibawah ini
-[Link Dataset](https://www.kaggle.com/arashnic/book-recommendation-dataset)
 
 Dataset ini berisi 3 tabel:
 
