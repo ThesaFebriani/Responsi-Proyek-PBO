@@ -2,12 +2,10 @@
 NAMA   : Thesa Febriani
 NPM    : G1F022033
 ## 1. _Buatlah perulangan hingga 100 menggunakan Python_
-<img width="249" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/c5d712e0-afc9-4589-92a3-6ec3ac45dfc9">
-
-Penejelasan:
-
-Kode diatas adalah untuk membuat perulangan 1 sampai 100, dimana setiap kelipatan 10 akan mencetak nama saya yaitu "Thesa Febriani" sebanyak tiga kali secara berturut turut, sementara angka lainnya akan dicetak biasa.
-"for x in range(1, 100): " adalah pernyataan perulangan for yang akan mengiterasi nilai x dari 1 hingga 100. kondisi "if x % 10 == 0:" berfungsi untuk memeriksa apakah nilai x adalah kelipatan 10 atau tidak dengan menggunakan operator modulo %. Jika x adalah kelipatan 10 maka "Thesa Febriani" akan dicetak tiga kali berturut-turut. Jika x tidak merupakan kelipatan 10, maka pernyataan else akan dijalankan
+  <img width="249" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/c5d712e0-afc9-4589-92a3-6ec3ac45dfc9">
+  
+  Penejelasan:
+  Kode diatas adalah untuk membuat perulangan 1 sampai 100, dimana setiap kelipatan 10 akan mencetak nama saya yaitu "Thesa Febriani" sebanyak tiga kali secara berturut       turut, sementara angka lainnya akan dicetak biasa. "for x in range(1, 100): " adalah pernyataan perulangan for yang akan mengiterasi nilai x dari 1 hingga 100. kondisi      "if x % 10 == 0:" berfungsi untuk memeriksa apakah nilai x adalah kelipatan 10 atau tidak dengan menggunakan operator modulo %. Jika x adalah kelipatan 10 maka "Thesa       Febriani" akan dicetak tiga kali berturut-turut. Jika x tidak merupakan kelipatan 10, maka pernyataan else akan dijalankan
 
 
 ## 2. _Membuat program if else pada for loop dan while loop
