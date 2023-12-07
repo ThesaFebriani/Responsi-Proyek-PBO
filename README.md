@@ -27,7 +27,7 @@ NPM    : G1F022033
   Penjelasan:
 
   Kode diatas merupakan kode untuk mengecek apakah apakah bilangan itu kelipatan 2 atau 3.
-  * for number in range(8, 16):: Pernyataan for ini menginisialisasi loop dengan variabel number yang akan diiterasi mulai dari 2 hingga 8.
+  * for number in range(8, 16): Pernyataan for ini menginisialisasi loop dengan variabel number yang akan diiterasi mulai dari 2 hingga 8.
   * pernyataan if number % 2 == 0 and number % 3 == 0: memeriksa apakah nilai number adalah kelipatan dari 2 dan 3. Jika number adalah kelipatan dari 2 dan 3, maka program akan mencetak bahwa number adalah kelipatan 2 dan 3 menggunakan pernyataan print(f"{number} adalah kelipatan 2 dan 3").
   * number % 2 == 0 memeriksa apakah number adalah kelipatan 2. jika ya akan mencetak bahwah number adalah kelipatan 2.
   * number % 3 == 0 memeriksa apakah number adalah keliparan 3, jika ya akan mencetak bahawah number adalah kelipatan 3.
@@ -35,10 +35,16 @@ NPM    : G1F022033
 
 
 
-### 2.2 _Goals_
-* Membuat sistem rekomendasi yang bisa memberikan rekomendasi buku yang relevan dengan preferensi pengguna.
-* Mengetahui kemampuan sistem rekomendasi dalam memberikan rekomendasi buku kepada pengguna.
-* Mengoptimalkan pemanfaatan data pelanggan dan buku yang ada untuk membuat sistem rekomendasi lebih akurat dan presisi.
+### 2.2 _Program if else pada while loop_
+
+
+<img width="602" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/08337736-7d6f-4d68-b486-d7aaaa554a88">
+
+Penjelasan:
+
+Kode diatas digunakan untuk membuat program yang berfungsi untuk menghitung jumlah angka genap dan ganjil. rentang_awal dan rentang_akhir menentukan rentang angka yang ingin kita hitung. jumlah_genap dan jumlah_ganjil diinisialisasi dengan nilai 0 untuk menyimpan jumlah angka genap dan ganjil dalam rentang tersebut. while angka <= rentang_akhir: while loop akan terus berjalan selama nilai angka masih dalam rentang yang ditentukan. Dalam loop, program memeriksa apakah angka adalah genap atau ganjil menggunakan pernyataan if else. Jika angka adalah genap (angka % 2 == 0), maka jumlah_genap akan bertambah satu. Jika tidak, angka adalah ganjil dan jumlah_ganjil akan bertambah satu. angka += 1  nilai angka akan bertambah satu demi satu.
+
+
 
 ### 2.3 _Solution statements_
 Solusi dalam menyelesaikan masalah ini yaitu penulis menggunakan algoritma _Content Based Filtering_ dan _Collaborative Filtering_
