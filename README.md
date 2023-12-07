@@ -9,7 +9,7 @@ NPM    : G1F022033
 
 
 ## 2. _Membuat program if else pada for loop dan while loop
-  ### 2.1 _Program if else pada for loop_
+### 2.1 _Program if else pada for loop_
   * Program mengecek Bilangan Ganjil dan Genap
   
   
