@@ -9,40 +9,40 @@ NPM    : G1F022033
 
 
 ## 2. _Membuat program if else pada for loop dan while loop
-### 2.1 _Program if else pada for loop_
-* Program mengecek Bilangan Ganjil dan Genap
+  ### 2.1 _Program if else pada for loop_
+  * Program mengecek Bilangan Ganjil dan Genap
   
   
      <img width="353" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/985ca363-7381-4fb4-a708-7256df78af2d">
 
 
-  Penjelasan:
-  Gamabar diatas merupakan kode yang digunakan untuk mebuat program sederhana untuk mengecek bilangan ganjil dan genap, dimana dengan rentang nilai 1 sampai 6, tidak termasuk 7. Pernyataan if i % 2 == 0: memeriksa apakah nilai i adalah bilangan genap atau tidak. "i % 2" adalah operasi modulo yang mengembalikan sisa bagi dari pembagian i dengan 2. Jika sisa bagi adalah 0 (i habis dibagi 2), maka i adalah bilangan genap. Jika i adalah bilangan genap (ketika i % 2 == 0), maka program akan mencetak bahwa i adalah bilangan genap menggunakan pernyataan print(f"{i} adalah bilangan genap"). Jika i bukan bilangan genap (karena i % 2 != 0), maka program akan mencetak bahwa i adalah bilangan ganjil menggunakan pernyataan print(f"{i} adalah bilangan ganjil").
+    Penjelasan:
+    Gamabar diatas merupakan kode yang digunakan untuk mebuat program sederhana untuk mengecek bilangan ganjil dan genap, dimana dengan rentang nilai 1 sampai 6, tidak termasuk 7. Pernyataan if i % 2 == 0: memeriksa apakah nilai i adalah bilangan genap atau tidak. "i % 2" adalah operasi modulo yang mengembalikan sisa bagi dari pembagian i dengan 2. Jika sisa bagi adalah 0 (i habis dibagi 2), maka i adalah bilangan genap. Jika i adalah bilangan genap (ketika i % 2 == 0), maka program akan mencetak bahwa i adalah bilangan genap menggunakan pernyataan print(f"{i} adalah bilangan genap"). Jika i bukan bilangan genap (karena i % 2 != 0), maka program akan mencetak bahwa i adalah bilangan ganjil menggunakan pernyataan print(f"{i} adalah bilangan ganjil").
 
 * Program Pengecekan bilangan 2 dan 3
 
 
-  <img width="303" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/4da6da5b-989b-4df2-8801-69bef85e02f9">
+    <img width="303" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/4da6da5b-989b-4df2-8801-69bef85e02f9">
 
-  Penjelasan:
+    Penjelasan:
 
-  Kode diatas merupakan kode untuk mengecek apakah apakah bilangan itu kelipatan 2 atau 3.
-  * for number in range(8, 16): Pernyataan for ini menginisialisasi loop dengan variabel number yang akan diiterasi mulai dari 2 hingga 8.
-  * pernyataan if number % 2 == 0 and number % 3 == 0: memeriksa apakah nilai number adalah kelipatan dari 2 dan 3. Jika number adalah kelipatan dari 2 dan 3, maka program akan mencetak bahwa number adalah kelipatan 2 dan 3 menggunakan pernyataan print(f"{number} adalah kelipatan 2 dan 3").
-  * number % 2 == 0 memeriksa apakah number adalah kelipatan 2. jika ya akan mencetak bahwah number adalah kelipatan 2.
-  * number % 3 == 0 memeriksa apakah number adalah keliparan 3, jika ya akan mencetak bahawah number adalah kelipatan 3.
-  * jika number bukan kelipatan 2 atau pun 3, maka else akan dijalankan
-
-
-
-### 2.2 _Program if else pada while loop_
+    Kode diatas merupakan kode untuk mengecek apakah apakah bilangan itu kelipatan 2 atau 3.
+    * for number in range(8, 16): Pernyataan for ini menginisialisasi loop dengan variabel number yang akan diiterasi mulai dari 2 hingga 8.
+    * pernyataan if number % 2 == 0 and number % 3 == 0: memeriksa apakah nilai number adalah kelipatan dari 2 dan 3. Jika number adalah kelipatan dari 2 dan 3, maka program akan mencetak bahwa number adalah kelipatan 2 dan 3 menggunakan pernyataan print(f"{number} adalah kelipatan 2 dan 3").
+     * number % 2 == 0 memeriksa apakah number adalah kelipatan 2. jika ya akan mencetak bahwah number adalah kelipatan 2.
+    * number % 3 == 0 memeriksa apakah number adalah keliparan 3, jika ya akan mencetak bahawah number adalah kelipatan 3.
+    * jika number bukan kelipatan 2 atau pun 3, maka else akan dijalankan
 
 
-<img width="602" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/08337736-7d6f-4d68-b486-d7aaaa554a88">
 
-Penjelasan:
+    ### 2.2 _Program if else pada while loop_
 
-Kode diatas digunakan untuk membuat program yang berfungsi untuk menghitung jumlah angka genap dan ganjil. rentang_awal dan rentang_akhir menentukan rentang angka yang ingin kita hitung. jumlah_genap dan jumlah_ganjil diinisialisasi dengan nilai 0 untuk menyimpan jumlah angka genap dan ganjil dalam rentang tersebut. while angka <= rentang_akhir: while loop akan terus berjalan selama nilai angka masih dalam rentang yang ditentukan. Dalam loop, program memeriksa apakah angka adalah genap atau ganjil menggunakan pernyataan if else. Jika angka adalah genap (angka % 2 == 0), maka jumlah_genap akan bertambah satu. Jika tidak, angka adalah ganjil dan jumlah_ganjil akan bertambah satu. angka += 1  nilai angka akan bertambah satu demi satu.
+
+    <img width="602" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/08337736-7d6f-4d68-b486-d7aaaa554a88">
+
+    Penjelasan:
+
+    Kode diatas digunakan untuk membuat program yang berfungsi untuk menghitung jumlah angka genap dan ganjil. rentang_awal dan rentang_akhir menentukan rentang angka yang ingin kita hitung. jumlah_genap dan jumlah_ganjil diinisialisasi dengan nilai 0 untuk menyimpan jumlah angka genap dan ganjil dalam rentang tersebut. while angka <= rentang_akhir: while loop akan terus berjalan selama nilai angka masih dalam rentang yang ditentukan. Dalam loop, program memeriksa apakah angka adalah genap atau ganjil menggunakan pernyataan if else. Jika angka adalah genap (angka % 2 == 0), maka jumlah_genap akan bertambah satu. Jika tidak, angka adalah ganjil dan jumlah_ganjil akan bertambah satu. angka += 1  nilai angka akan bertambah satu demi satu.
 
 
 
