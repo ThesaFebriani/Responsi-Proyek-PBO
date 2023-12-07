@@ -14,7 +14,9 @@ Kode diatas adalah untuk membuat perulangan 1 sampai 100, dimana setiap kelipata
 ### 2.1 _Program if else pada for loop_
 * Program mengecek Bilangan Ganjil dan Genap
      <img width="353" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/985ca363-7381-4fb4-a708-7256df78af2d">
+
   Penjelasan:
+  
 Gamabar diatas merupakan kode yang digunakan untuk mebuat program sederhana untuk mengecek bilangan ganjil dan genap, dimana dengan rentang nilai 1 sampai 6, tidak termasuk 7. Pernyataan if i % 2 == 0: memeriksa apakah nilai i adalah bilangan genap atau tidak. "i % 2" adalah operasi modulo yang mengembalikan sisa bagi dari pembagian i dengan 2. Jika sisa bagi adalah 0 (i habis dibagi 2), maka i adalah bilangan genap. Jika i adalah bilangan genap (ketika i % 2 == 0), maka program akan mencetak bahwa i adalah bilangan genap menggunakan pernyataan print(f"{i} adalah bilangan genap"). Jika i bukan bilangan genap (karena i % 2 != 0), maka program akan mencetak bahwa i adalah bilangan ganjil menggunakan pernyataan print(f"{i} adalah bilangan ganjil").
 
   
