@@ -7,17 +7,20 @@ NPM    : G1F022033
 </div>
 
 Penejlasan:
+
 Kode diatas adalah untuk membuat perulangan 1 sampai 100, dimana setiap kelipatan 10 akan mencetak nama saya yaitu "Thesa Febriani" sebanyak tiga kali secara berturut turut, sementara angka lainnya akan dicetak biasa.
 "for x in range(1, 100): " adalah pernyataan perulangan for yang akan mengiterasi nilai x dari 1 hingga 100. kondisi "if x % 10 == 0:" berfungsi untuk memeriksa apakah nilai x adalah kelipatan 10 atau tidak dengan menggunakan operator modulo %. Jika x adalah kelipatan 10 maka "Thesa Febriani" akan dicetak tiga kali berturut-turut. Jika x tidak merupakan kelipatan 10, maka pernyataan else akan dijalankan
 
 
-
 ## 2. _Membuat program if else pada for loop dan while loop
 ### 2.1 _Program if else pada for loop_
-Dari kondisi yang telah dijelaskan di atas, akan dibuat sebuah sistem rekomendasi untuk menjawab permasalahan berikut:
-* Bagaimana cara memberikan rekomendasi buku yang relevan kepada pengguna berdasarkan preferensi dan perilaku mereka?
+* Program mengecek Bilangan Ganjil dan Genap
+  <div align="center">
+     <img width="353" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/985ca363-7381-4fb4-a708-7256df78af2d">
+  </div>
+
 * Bagaimana sistem rekomendasi dapat membantu meningkatkan pengalaman pengguna dalam meminjam buku ?
-* Bagaimana kita dapat memanfaatkan informasi dari pengguna, buku, dan riwayat peminjaman untuk menghasilkan rekomendasi yang personal dan akurat?
+
 
 ### 2.2 _Goals_
 * Membuat sistem rekomendasi yang bisa memberikan rekomendasi buku yang relevan dengan preferensi pengguna.
