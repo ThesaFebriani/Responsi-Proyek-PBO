@@ -1,16 +1,7 @@
 # Responsi-Proyek-PBO
-   <div align="center">
-
-<a href="https://colab.research.google.com/github/randiijulian/Machine-Learning-Terapan-Dicoding/blob/main/Recommender%20System/Recommender_System.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
-<a href="https://www.linkedin.com/in/randijulian"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
-<a href="https://github.com/randiijulian"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github" alt="Github"></a>
-<a href="https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset"><img src="https://img.shields.io/badge/Dataset-Download-green" alt="Dataset"></a>
-
-</div>
-
-# _Recommender System Submission_
-
-## 1. _Project Overview_
+NAMA   : Thesa Febriani
+NPM    : G1F022033
+## 1. _Buatlah perulangan hingga 100 menggunakan Python_
 Perpustakaan sudah merambah ke ranah digital. Keberadaan sistem informasi perpustakaan di perguruan tinggi dapat dirasakan telah memudahkan para pengunjung, baik mahasiswa maupun dosen, dalam mencari bahan referensi yang menjadi koleksi perpustakaan dimaksud **[1]**.
 Saat ini telah banyak sekali buku-buku yang disediakan oleh perpustakaan. Tak jarang buku-buku tersebut tidak sesuai tentang isi yang terdapat pada buku dan cover buku yang terlihat bagus. Oleh karena itu, pengguna platform perpustakaan digital perlu diberikan rasa nyaman dengan memfilter buku-buku yang direkomendasikan kepada user.
 
