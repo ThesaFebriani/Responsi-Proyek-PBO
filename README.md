@@ -29,7 +29,7 @@ NPM    : G1F022033
     Kode diatas merupakan kode untuk mengecek apakah apakah bilangan itu kelipatan 2 atau 3.
     * for number in range(8, 16): Pernyataan for ini menginisialisasi loop dengan variabel number yang akan diiterasi mulai dari 2 hingga 8.
     * pernyataan if number % 2 == 0 and number % 3 == 0: memeriksa apakah nilai number adalah kelipatan dari 2 dan 3. Jika number adalah kelipatan dari 2 dan 3, maka program akan mencetak bahwa number adalah kelipatan 2 dan 3 menggunakan pernyataan print(f"{number} adalah kelipatan 2 dan 3").
-     * number % 2 == 0 memeriksa apakah number adalah kelipatan 2. jika ya akan mencetak bahwah number adalah kelipatan 2.
+    * number % 2 == 0 memeriksa apakah number adalah kelipatan 2. jika ya akan mencetak bahwah number adalah kelipatan 2.
     * number % 3 == 0 memeriksa apakah number adalah keliparan 3, jika ya akan mencetak bahawah number adalah kelipatan 3.
     * jika number bukan kelipatan 2 atau pun 3, maka else akan dijalankan
 
