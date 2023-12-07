@@ -12,8 +12,8 @@ Kode diatas adalah untuk membuat perulangan 1 sampai 100, dimana setiap kelipata
 
 
 
-## 2. _Business Understanding_
-### 2.1 _Problem Statements_
+## 2. _Membuat program if else pada for loop dan while loop
+### 2.1 _Program if else pada for loop_
 Dari kondisi yang telah dijelaskan di atas, akan dibuat sebuah sistem rekomendasi untuk menjawab permasalahan berikut:
 * Bagaimana cara memberikan rekomendasi buku yang relevan kepada pengguna berdasarkan preferensi dan perilaku mereka?
 * Bagaimana sistem rekomendasi dapat membantu meningkatkan pengalaman pengguna dalam meminjam buku ?
