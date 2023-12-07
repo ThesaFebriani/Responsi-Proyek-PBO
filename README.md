@@ -35,7 +35,7 @@ NPM    : G1F022033
 
 
 
-    ### 2.2 _Program if else pada while loop_
+  ### 2.2 _Program if else pada while loop_
 
 
     <img width="602" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/08337736-7d6f-4d68-b486-d7aaaa554a88">
